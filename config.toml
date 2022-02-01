@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = ""
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend"
 paginate = 5
@@ -9,7 +9,7 @@ paginate = 5
   contentTypeName = "posts"
 
   # "light" or "dark"
-  defaultTheme = "dark"
+  defaultTheme = "light"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
@@ -55,5 +55,5 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "blog"
         name = "post"
-        url = "/pages"
+        url = "/writeups"
       
