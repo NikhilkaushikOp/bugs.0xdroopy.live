@@ -1,4 +1,4 @@
-baseurl = "/posts"
+baseurl = "/"
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend"
 paginate = 5
@@ -9,7 +9,7 @@ paginate = 5
   contentTypeName = "posts"
 
   # "light" or "dark"
-  defaultTheme = "light"
+  defaultTheme = "dark"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
@@ -44,7 +44,7 @@ paginate = 5
     # lastModDisplay = ""
 
     [languages.en.params.logo]
-      logoText = "hack for good"
+      logoText = "root@0xdroopy"
       logoHomeLink = "/"
     # or
     #
@@ -54,6 +54,6 @@ paginate = 5
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "blog"
-        name = "Posts"
+        name = "post"
         url = "/pages"
       
