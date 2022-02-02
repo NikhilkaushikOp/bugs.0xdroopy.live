@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Hello Friend</title>
+    
+    
+    
+    <link>/posts/pages/</link>
+    <description>Recent content in Pages on Hello Friend</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/posts/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How I Saved Christmas for Google 🎄</title>
+      <link>/posts/pages/about/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/pages/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Introduction #  It was a cold winter morning. I woke up early as I had to start my journey on a great program which was none other than Google Vrp. I read many blog posts on google by the
+The theme includes:
+ light/dark mode, depending on your preferences great reading experience thanks to Inter UI font, made by Rasmus Andersson nice code highlighting thanks to PrismJS  So, there you have it&amp;hellip; enjoy!
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Showcase</title>
+      <link>/posts/pages/showcase/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/pages/showcase/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Header 2 #  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>/posts/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/archive/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
