@@ -55,5 +55,5 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "blog"
         name = "post"
-        url = "/pages"
+        url = "/bugs"
       
