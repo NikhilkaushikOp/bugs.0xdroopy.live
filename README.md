@@ -15,3 +15,4 @@
 "# writeupsbug" 
 "# blog" 
 "# ab-toh-hojaa" 
+"# bugs.0xdroopy.live" 
