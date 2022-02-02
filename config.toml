@@ -45,7 +45,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "root@0xdroopy"
-      logoHomeLink = "https://0xdroopy.live"
+      logoHomeLink = "https://home.0xdroopy.live"
     # or
     #
     # path = "/img/your-example-logo.svg"
