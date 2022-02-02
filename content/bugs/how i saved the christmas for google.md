@@ -193,10 +193,12 @@ req.end();
 
 In this malicious code above I put my burp collaborater in order to receive the callback if the code is being executed on the server. I waited, waited and waited. Callback hasn't came until 5 hours. I decided to wait 1 more hour and then just shutdown my whole plan. After around 33 minutes , I recieved a callback to my burp collaborater.
 
-{{< image src="https://thumbs.gfycat.com/AnchoredBackAfricanclawedfrog-size_restricted.gif" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+{{< image src="https://user-images.githubusercontent.com/8293321/135176099-0e3fa01c-bdce-4f04-a94f-de0a34c7abf6.png" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 This was something I never expected that happened now. I just left my system and gone out. After coming back I quickly reported to Google Vrp. Within 15 minutes my report got Triaged and Accepted. 
 
+## Why it is considered as a Deep Gold Mine?
+Yeah by this , everyone will believe that it is a gold mine and look for same type of bugs. But there's a catch, The way you recon means a lot. If your recon is weak then you would never be able to find this in the near time. Your recon should be accessible to all the endpoints withing the program and as well as using third party platforms - Github, Shodan , Google Dorks etc. The attack Dependency Confusion is still not very overrated but I want to disclose as this was a bit that I got from the community and here is what I returned.
 
 ## Timeline:
 

@@ -27,8 +27,8 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
-    subtitle = "A simple theme for Hugo"
+    title = "0xdroopy"
+    subtitle = "Lets Hack for Good!"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -45,7 +45,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "root@0xdroopy"
-      logoHomeLink = "/"
+      logoHomeLink = "https://0xdroopy.live"
     # or
     #
     # path = "/img/your-example-logo.svg"
@@ -55,5 +55,5 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "blog"
         name = "post"
-        url = "/writeups"
+        url = "/bugs"
       
