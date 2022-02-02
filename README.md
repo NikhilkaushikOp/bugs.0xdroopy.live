@@ -8,3 +8,4 @@
 "# bugs.nikhilkaushikop.github.io" 
 "# bugs" 
 "# 0xdroopy" 
+"# bugs.0xdroopy.live" 
