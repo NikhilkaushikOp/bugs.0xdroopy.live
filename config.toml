@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://bugs.0xdroopy.live"
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend"
 paginate = 5
@@ -55,5 +55,5 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "blog"
         name = "post"
-        url = "/bugs"
+        url = "/pages"
       

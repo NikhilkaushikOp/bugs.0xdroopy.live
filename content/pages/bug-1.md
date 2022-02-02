@@ -19,7 +19,7 @@ I was now looking at the scope for pentesting and I would love to say the scope 
 
 ## What the hell is Dependency Confusion?
 
-So let me not waste the times for anyone and explain it so easily that it would be understood by even beginner also. You would be familiar when we install the packages for computer using the terminal.
+So let me not waste the times for anyone and explain it so easily that it would be understood by even beginner also. Dependency Confusison is a attack by which an attacker is able to perform Remote Code Execution in a server by providing a package of same name with higher version with that used by a server, which makes server attracted towards higher version pipeline. You would be familiar when we install the packages for computer using the terminal.
 There are different types of packages having different framework like 
 
 #### 1) Python
@@ -32,6 +32,7 @@ pip install <package name>
 
 ```bash
 npm install <package name>
+npm owner add <user> <package name>
 ```
 
 #### 3) Ruby Gems
@@ -90,7 +91,7 @@ setup(
 
 ### Npm
 
-Similarly in Node Js there is a platform name `npm` which allows the user to upload open source packages.
+Similarly in Node Js there is a platform name [**Npm**](https://www.npmjs.com/) which allows the user to upload open source packages.
 ```js
 // module.exports exports the function getContests as a promise and exposes it as a module.
 // we can import an exported module by using require().
@@ -199,6 +200,10 @@ This was something I never expected that happened now. I just left my system and
 
 ## Why it is considered as a Deep Gold Mine?
 Yeah by this , everyone will believe that it is a gold mine and look for same type of bugs. But there's a catch, The way you recon means a lot. If your recon is weak then you would never be able to find this in the near time. Your recon should be accessible to all the endpoints withing the program and as well as using third party platforms - Github, Shodan , Google Dorks etc. The attack Dependency Confusion is still not very overrated but I want to disclose as this was a bit that I got from the community and here is what I returned.
+
+{{< image src="https://64.media.tumblr.com/a76def644cc0b31881be79547604ee33/2c3aa8307bc296b3-e1/s540x810/4dedfb1c6a23bf52ae91154e79971567718ffbc4.png" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+
+
 
 ## Timeline:
 
