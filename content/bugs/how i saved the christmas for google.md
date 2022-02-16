@@ -10,7 +10,7 @@ author = "0xdroopy"
 
 It was a cold winter morning. I woke up early as I had to start my journey on a great program which was none other than Google Vrp. I read many blog posts on google by different amazing authours and then hunting on google came on my mind. Usually I am not a type of pentester who looks for low hanging bugs, rather I go for them having higher impact and higher difficulty in finding. 
 
-{{< image src="https://pbs.twimg.com/card_img/1486392048576090118/8cZ1qNUh?format=jpg&name=medium" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+{{< image src="https://storage.googleapis.com/bughunters-social/og_social_image_bughunters.png" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 ## How it started?
 
 I was now looking at the scope for pentesting and I would love to say the scope is huge! Then my eyes came on to the product of google named Google Cloud. It is the cloud services offered by the google which indeed had many programs in it. So I took my debit card and got me enrolled in the Google Cloud Services. Now an attack that I have learnt from The Great Alex Birsan came to my mind about Dependency Confusion. 
