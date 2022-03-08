@@ -16,16 +16,16 @@ On Fitbit official website I was able to register with any account without verif
 On fitbit.com there are 2 functionalities to register in the account. One is normal functionality of email address and password whereas other is the functionality of Oauth by which you can register using your google account. In the Oauth functionality, after logging through you would be directly be logged in to the account. Whereas in the normal functionality, you have to verify the email in order to go for further registration of details.
   
 ### Functionalities On Register Page
-{{< image src="https://keepcodeclean.com/wp-content/uploads/2020/06/oauth.png" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+{{< image src="https://i.ibb.co/0C7Y3Nm/1.png" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
-### When Try to Register Using Normal Functionality
-{{< image src="https://keepcodeclean.com/wp-content/uploads/2020/06/oauth.png" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+### When Try to Register Using Normal Functionality, Verification is Needed.
+{{< image src="https://i.ibb.co/bKdmRKZ/2.png" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 ## The Unauthorization of Oauth Token
 
 By logging through the Oauth Functionality, accounts.google.com sends the Oauth Token to the website who requested to be logged in using Google Functionality. Then the website authorize the token and thus extracts the email address fromit. The authorization of the Oauth Token and the Email Address go step by step till the end of the registration of the account. At the end the server uses the cookies same as the oauth token being provided for further logins.
 
-{{< image src="https://keepcodeclean.com/wp-content/uploads/2020/06/oauth.png" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+{{< image src="https://i.ibb.co/NytTGVh/3.png" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 ## Steps To Reproduce
 
@@ -51,7 +51,7 @@ email=testemailaddressforfit2%40gmail.com&password=asuidahsdhaw&birthday=2006-03
 
 5) After Forwarding the request , you would be successfully signed up with the Account 2 Email address without verifying.
 
-{{< image src="https://keepcodeclean.com/wp-content/uploads/2020/06/oauth.png" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+{{< image src="https://i.ibb.co/pn3r3qw/4.png" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
  
 ## Demonstration
@@ -60,3 +60,6 @@ email=testemailaddressforfit2%40gmail.com&password=asuidahsdhaw&birthday=2006-03
 src="https://www.youtube.com/embed/DjbVqwm3DtI">
 </iframe>}}
 
+## Attack Scenario
+
+Here attack scenario is very clear, the attacker can easily register with any account he wanted to and hijack it without confirming the email address which would lead to a pre-account takeover. This can make the attacker change everything in the account and giving the victim only way to recover account via password reset.
