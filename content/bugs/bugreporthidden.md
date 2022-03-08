@@ -49,8 +49,3 @@ email=testemailaddressforfit2%40gmail.com&password=asuidahsdhaw&birthday=2006-03
 {{< image src="https://keepcodeclean.com/wp-content/uploads/2020/06/oauth.png" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
  
-## Demonstration
-
-{{<iframe width="420" height="315"
-src="https://www.youtube.com/embed/DjbVqwm3DtI">
-</iframe>}}
