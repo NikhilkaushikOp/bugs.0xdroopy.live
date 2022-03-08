@@ -50,7 +50,7 @@ email=testemailaddressforfit2%40gmail.com&password=asuidahsdhaw&birthday=2006-03
 
 ## Demonstration
 
-[IMAGE_ALT](https://img.youtube.com/vi/DjbVqwm3DtI/0.jpg)](https://www.youtube.com/watch?v=DjbVqwm3DtI)
+[IMAGE_ALT](https://img.youtube.com/vi/DjbVqwm3DtI/0.jpg)]
  ## Attack Scenario
  
  Here attack scenario is very clear, the attacker can easily register with any account he wanted to and hijack it without confirming the email address which would lead to a pre-account takeover. This can make the attacker change everything in the account and giving the victim only way to recover account via password reset.
