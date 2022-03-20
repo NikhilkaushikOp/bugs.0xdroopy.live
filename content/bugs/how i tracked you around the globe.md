@@ -64,3 +64,9 @@ Thanks for reading this report, Hope you were able to gain some knowledge after 
 [Jan 23, 2022] - Bug mitigated by temporarily disabling the Moments feature
 
 [Jan 29, 2022] - Reward of $XXXX issued
+
+{{< rawhtml >}}
+<!-- Start of WebFreeCounter Code -->
+<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gmuqddfp&nd=7&style=1" border="0" alt="visitor counter"></a>
+<!-- End of WebFreeCounter Code -->
+{{< /rawhtml >}}
